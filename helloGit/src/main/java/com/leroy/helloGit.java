@@ -9,5 +9,6 @@ public class helloGit {
         System.out.println("hello word！ 001");
         System.out.println("hello word！ 002");
         System.out.println("分支添加代码");
+        System.out.println("分支新增代码2");
     }
 }
