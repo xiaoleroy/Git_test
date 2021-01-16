@@ -7,5 +7,6 @@ package com.leroy;
 public class helloGit {
     public static void main(String[] args) {
         System.out.println("hello word！ 001");
+        System.out.println("hello word！ 002");
     }
 }
